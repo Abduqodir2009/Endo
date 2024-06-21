@@ -1,0 +1,20 @@
+.first{
+    width: 400px;
+    height: 500px;
+    border: solid 3px;
+    padding: 20px;
+}
+.second{
+    width: 400px;
+    height: 500px;
+    border: solid 3px;
+}
+.first .input-1{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.first .input-2{
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
